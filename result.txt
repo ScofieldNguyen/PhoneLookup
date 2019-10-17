@@ -1,0 +1,629 @@
+===> searching Vivo V17 Pro at FPT
+<!DOCTYPE html>
+
+<html lang="vi">
+<head>
+<title>Kết quả tìm kiếm: Vivo V17 Pro - Fptshop.com.vn</title>
+<meta content="Kết quả tìm kiếm: Vivo V17 Pro - Fptshop.com.vn" name="title"/>
+<meta content="Kết quả tìm kiếm phù hợp cho: Vivo V17 Pro trên FPTShop, bạn đang tìm kiếm thông tin, giá cả, khuyến mại, mua bán hoặc đánh giá liên quan đến: Vivo V17 Pro trên hệ thống bán lẻ kỹ thuật số FPTShop" name="description"/>
+<meta content="Vivo V17 Pro" name="keywords"/>
+<!-- <link href="http://fptshop.api.sociaplus.com/views/push/manifest/" /> -->
+<script async="" src="//fptshop.api.useinsider.com/ins.js?id=10001396"></script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
+<meta content="Công ty Cổ phần Bán lẻ Kỹ thuật số FPT" name="copyright"/>
+<meta content="Công ty Cổ phần Bán lẻ Kỹ thuật số FPT" name="author"/>
+<meta content="General" http-equiv="audience"/>
+<meta content="Document" name="resource-type"/>
+<meta content="Global" name="distribution"/>
+<meta content="INDEX,FOLLOW" name="robots">
+<meta content="1 days" name="revisit-after">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="Công ty Cổ phần Bán lẻ Kỹ thuật số FPT" name="GENERATOR"/>
+<meta content="FPTShop.com.vn" property="og:site_name">
+<meta content="website" property="og:type">
+<meta content="vi_VN" property="og:locale">
+<meta content="Kết quả tìm kiếm: Vivo V17 Pro - Fptshop.com.vn" property="og:title">
+<meta content="Kết quả tìm kiếm phù hợp cho: Vivo V17 Pro trên FPTShop, bạn đang tìm kiếm thông tin, giá cả, khuyến mại, mua bán hoặc đánh giá liên quan đến: Vivo V17 Pro trên hệ thống bán lẻ kỹ thuật số FPTShop" property="og:description"/>
+<meta content="https://fptshop.com.vn/tim-kiem/Vivo-V17-Pro" property="og:url"/>
+<meta content="Kết quả tìm kiếm: Vivo V17 Pro - Fptshop.com.vn" itemprop="name"/>
+<meta content="Kết quả tìm kiếm phù hợp cho: Vivo V17 Pro trên FPTShop, bạn đang tìm kiếm thông tin, giá cả, khuyến mại, mua bán hoặc đánh giá liên quan đến: Vivo V17 Pro trên hệ thống bán lẻ kỹ thuật số FPTShop" itemprop="description"/>
+<meta content="948243871965133" property="fb:app_id"/>
+<link href="https://fptshop.com.vn/tim-kiem/Vivo-V17-Pro" rel="canonical"/>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W84P7P');</script>
+<script type="text/javascript">var _siteId="512046464";setTimeout(function(){(function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="//st-a.anthill.vn/adx.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();},5000);</script>
+<style>.async-hide{opacity:0!important}</style>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-36867340-1','auto');ga('require','GTM-PHK43FL');ga('send','pageview');ga('require','ecommerce','ecommerce.js');</script>
+<style>.owl-carousel,.owl-carousel .owl-item{-webkit-tap-highlight-color:transparent;position:relative}.owl-carousel{display:none;width:100%;z-index:1}.owl-carousel .owl-stage{position:relative;-ms-touch-action:pan-Y;-moz-backface-visibility:hidden}.owl-carousel .owl-stage:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}.owl-carousel .owl-stage-outer{position:relative;overflow:hidden;-webkit-transform:translate3d(0,0,0)}.owl-carousel .owl-item,.owl-carousel .owl-wrapper{-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0)}.owl-carousel .owl-item{min-height:1px;float:left;-webkit-backface-visibility:hidden;-webkit-touch-callout:none}.owl-carousel .owl-item img{display:block;width:100%}.owl-carousel .owl-dots.disabled,.owl-carousel .owl-nav.disabled{display:none}.no-js .owl-carousel,.owl-carousel.owl-loaded{display:block}.owl-carousel .owl-dot,.owl-carousel .owl-nav .owl-next,.owl-carousel .owl-nav .owl-prev{cursor:pointer;cursor:hand;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.owl-carousel.owl-loading{opacity:0;display:block}.owl-carousel.owl-hidden{opacity:0}.owl-carousel.owl-refresh .owl-item{visibility:hidden}.owl-carousel.owl-drag .owl-item{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.owl-carousel.owl-grab{cursor:move;cursor:grab}.owl-carousel.owl-rtl{direction:rtl}.owl-carousel.owl-rtl .owl-item{float:right}.owl-carousel .animated{animation-duration:1s;animation-fill-mode:both}.owl-carousel .owl-animated-in{z-index:0}.owl-carousel .owl-animated-out{z-index:1}.owl-carousel .fadeOut{animation-name:fadeOut}@keyframes fadeOut{0%{opacity:1}100%{opacity:0}}.owl-height{transition:height .5s ease-in-out}.owl-carousel .owl-item .owl-lazy{opacity:0;transition:opacity .4s ease}.owl-carousel .owl-item img.owl-lazy{transform-style:preserve-3d}.owl-carousel .owl-video-wrapper{position:relative;height:100%;background:#000}.owl-carousel .owl-video-play-icon{position:absolute;height:80px;width:80px;left:50%;top:50%;margin-left:-40px;margin-top:-40px;background:url(../images/owl.video.play.png) no-repeat;cursor:pointer;z-index:1;-webkit-backface-visibility:hidden;transition:transform .1s ease}.owl-carousel .owl-video-play-icon:hover{-ms-transform:scale(1.3,1.3);transform:scale(1.3,1.3)}.owl-carousel .owl-video-playing .owl-video-play-icon,.owl-carousel .owl-video-playing .owl-video-tn{display:none}.owl-carousel .owl-video-tn{opacity:0;height:100%;background-position:center center;background-repeat:no-repeat;background-size:contain;transition:opacity .4s ease}.owl-carousel .owl-video-frame{position:relative;z-index:1;height:100%;width:100%}html,body,body div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,sub,sup,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,figure,footer,header,menu,nav,section,time,mark,audio,video,details,summary{margin:0;padding:0;border:0;font-size:100%;font-weight:normal;vertical-align:baseline;background:transparent}h1,h2,h3,h4,h5,h6,p,small,strong,b,i{margin:0;padding:0;border:0;vertical-align:baseline;background:transparent}article,aside,figure,footer,header,nav,section,details,summary{display:block}html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}img,object,embed{max-width:100%}ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}a{margin:0;padding:0;font-size:100%;vertical-align:baseline;background:transparent}del{text-decoration:line-through}abbr[title],dfn[title]{border-bottom:1px dotted #000;cursor:help}table{border-collapse:collapse;border-spacing:0}th{font-weight:bold;vertical-align:bottom}td{font-weight:normal;vertical-align:top}hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}input,select{vertical-align:middle}pre{white-space:pre;white-space:pre-wrap;white-space:pre-line;word-wrap:break-word}input[type="radio"]{vertical-align:text-bottom}input[type="checkbox"]{vertical-align:bottom}.ie7 input[type="checkbox"]{vertical-align:baseline}.ie6 input{vertical-align:text-bottom}select,input,textarea{font:99% sans-serif}table{font-size:inherit}small{font-size:85%}strong{font-weight:bold}td,td{vertical-align:top}sub,sup{font-size:75%;line-height:0;position:relative}sup{top:-.5em}sub{bottom:-.25em}pre,code,kbd,samp{font-family:monospace,sans-serif}.clickable,label,input[type=button],input[type=submit],input[type=file],button{cursor:pointer}button,input,select,textarea{margin:0}button,input[type=button]{width:auto;overflow:visible}.ie7 img{-ms-interpolation-mode:bicubic}.clearfix:before,.clearfix:after{content:"\20";display:block;height:0;overflow:hidden}.clearfix:after{clear:both}.clearfix{zoom:1}img{vertical-align:middle}body{font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.42857143;color:#000;position:relative;overflow-x:hidden}a,a:hover,a:focus,a:active{outline:none;text-decoration:none;color:#000}.f-wrap{width:100%;max-width:1200px;margin:0 auto;position:relative}.f-wrap:before,.f-wrap:after{content:'';display:table}.f-wrap:after{clear:both}.f-tho{width:22px;height:23px;background-position:-5px -122px}.ficon{display:inline-block;background-repeat:no-repeat;background-image:url("/images/icons.svg?v=032019")}.f-hdtop{position:relative;z-index:10;height:56px;background:#cd1818}.fs-logo{width:187px;margin-top:8px;display:inline-block;float:left;position:relative;z-index:10}.fs-search{float:left;margin-top:10px}.fs-search>form{display:block;width:604px;position:relative;z-index:11}.fs-search>form>input{width:100%;height:38px;border:none;font-size:14px;padding:0 60px 0 10px;background:#fff;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px}.fs-search>form>button{width:58px;height:38px;display:inline-block;position:absolute;top:0;right:0;border:none;background:#333;-webkit-border-radius:0 2px 2px 0;-moz-border-radius:0 2px 2px 0;border-radius:0 2px 2px 0}.fs-sresult{display:block;width:100%;position:absolute;top:39px;z-index:11}.fs-sremain{margin-right:58px;background-color:#fff;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;-webkit-box-shadow:0 2px 4px 0 rgba(0,0,0,.5);-moz-box-shadow:0 2px 4px 0 rgba(0,0,0,.5);box-shadow:0 2px 4px 0 rgba(0,0,0,.5)}.fs-sremain>ul>li>a{display:table;width:100%;padding:10px 15px;border-bottom:1px solid #e8e8e8}.fs-sremain>ul>li>a:hover{background:#f4f4f4}.fs-sremain>ul>li>a>p{display:table-cell;vertical-align:top;width:40px;height:40px}.fs-sremain>ul>li>a>p>img{width:40px;height:40px}.fs-sremain>ul>li>a>div{display:table-cell;vertical-align:top;padding-left:10px}.fs-sremain>ul>li>a>div>h3{font-size:14px;line-height:1.29;color:#505050;margin-bottom:6px}.fs-sremain>ul>li>a>div>p{font-size:14px;font-weight:bold;color:#d0021b;display:inline-block;margin-right:15px}.fs-hdmn{position:absolute;top:0;right:0;text-align:right}.fs-hdmn>li{height:55px;padding:8px 2px 0 2px;margin-left:20px;text-align:center;display:inline-block;position:relative}.fs-hdmn>li:first-child{margin-left:0}.fs-hdmn>li span{display:block;font-size:12px;color:#fff}.fs-hdmsnews{top:75px}.fs-hdmsub{opacity:0;filter:alpha(opacity=0);visibility:hidden;position:absolute;left:0;width:200px;padding:13px 20px;background:#fff;border:solid 1px #d3d3d3;-webkit-box-shadow:0 2px 10px 0 rgba(0,0,0,.2);-moz-box-shadow:0 2px 10px 0 rgba(0,0,0,.2);box-shadow:0 2px 10px 0 rgba(0,0,0,.2);-moz-transition:.2s ease-out;-o-transition:.2s ease-out;-webkit-transition:.2s ease-out;-ms-transition:.2s ease-out;transition:.2s ease-out;-webkit-box-shadow:0 2px 10px 0 rgba(0,0,0,.2);-moz-box-shadow:0 2px 10px 0 rgba(0,0,0,.2);box-shadow:0 2px 10px 0 rgba(0,0,0,.2);-webkit-box-shadow:0 6px 12px rgba(0,0,0,.175);box-shadow:0 6px 12px rgba(0,0,0,.175)}.fs-hdmsub>li{text-align:left}.fs-hdmsub>li>a{display:block;font-size:14px;line-height:2.43;color:#3d3d3d}.fs-hdmsub>li>a:hover{color:#000}.fs-hdmn>li:hover .fs-hdmsub{opacity:1;filter:alpha(opacity=100);visibility:visible;-moz-transition:.3s ease-in;-o-transition:.3s ease-in;-webkit-transition:.3s ease-in;-ms-transition:.3s ease-in;transition:.3s ease-in;-moz-transform:translateY(-20px);-o-transform:translateY(-20px);-ms-transform:translateY(-20px);-webkit-transform:translateY(-20px);transform:translateY(-20px)}.fs-menu{position:relative;z-index:9;background:#252525;border-bottom:1px solid #e7e7e7;height:36px}.fs-mnul{position:relative;z-index:10}.fs-mnul>li{float:left;margin-right:16px}.fs-mnul>li:last-child{margin-right:0}.fs-mnul>li>a{display:inline-block;padding:8px 0 0 0;font-size:14px;color:#fff}.fs-mnul>li.active>a,.fs-mnul>li:hover>a{color:#aaa}.fs-mnul>li>a>i{vertical-align:middle;margin-right:5px}.fs-mnul>li>a>span{vertical-align:middle;width:8px;height:6px;background-position:-103px -98px}.fs-mnulsb{position:relative}.fs-hdmsubsmall{top:61px}.fs-mnsub{opacity:0;filter:alpha(opacity=0);visibility:hidden;position:absolute;background:#fff;border:solid 1px #d3d3d3;top:55px;left:0;width:100%;z-index:10;-moz-transition:.2s ease-out;-o-transition:.2s ease-out;-webkit-transition:.2s ease-out;-ms-transition:.2s ease-out;transition:.2s ease-out;-webkit-box-shadow:0 2px 10px 0 rgba(0,0,0,.2);-moz-box-shadow:0 2px 10px 0 rgba(0,0,0,.2);box-shadow:0 2px 10px 0 rgba(0,0,0,.2);-webkit-box-shadow:0 6px 12px rgba(0,0,0,.175);box-shadow:0 6px 12px rgba(0,0,0,.175)}.fs-mnul>li:hover .fs-hdmsub,.fs-mnul>li:hover .fs-mnsub{opacity:1;filter:alpha(opacity=100);visibility:visible;-moz-transition:.3s ease-in;-o-transition:.3s ease-in;-webkit-transition:.3s ease-in;-ms-transition:.3s ease-in;transition:.3s ease-in;-moz-transform:translateY(-20px);-o-transform:translateY(-20px);-ms-transform:translateY(-20px);-webkit-transform:translateY(-20px);transform:translateY(-20px)}.fs-mnbox{display:table;width:100%}.fs-mntd{display:table-cell;vertical-align:top;padding:10px}.fs-mnstit{font-size:13px;font-weight:bold;color:#3d3d3d;text-transform:uppercase;padding:8px 0 12px}.fs-mntd1{width:33%;border-right:1px solid #e3e3e3}.fs-mntd2{width:15%;border-right:1px solid #e3e3e3}.fs-mntd3{width:29%}.fs-mntd4{width:23%;text-align:center}.fs-mnsul>li{float:left}.fs-mnsul>li>a{font-size:13px;color:#3d3d3d;padding:5px 0;display:block}.fs-mnsul>li>a:hover{color:#000}.fs-mnsul3>li{width:33.33%}.fs-mnsul1>li{width:100%}.fs-mnsprod>li{margin-bottom:15px}.fs-mnsprod>li>.fs-mnspimg{width:80px;height:80px;float:left;display:block}.fs-mnspimg img{width:80px}.fs-mnsprod>li>div{margin-left:90px}.fs-mnsprod>li>div>h3{font-size:14px;margin-bottom:8px}.fs-mnsprod>li>div>h3>a{color:#505050}.fs-mnsprod>li>div>h3>a:hover{color:#000}.fs-mnsprod>li>div>p{font-size:14px;font-weight:bold;color:#d0021b}.fs-mnsbxh a{font-size:14px;color:#337ab7;display:block;text-align:center}.fs-cartic{position:absolute;top:5px;left:33px;width:15px;height:15px;line-height:15px;text-align:center;font-size:10px;color:#fff;display:inline-block;background:#f5a623;-webkit-border-radius:100%;-moz-border-radius:100%;border-radius:100%}.f-logo{width:150px;height:40px;background-position:0 0}.f-search{width:22px;height:22px;background-position:-5px -80px}.f-news{width:16px;height:20px;background-position:-40px -82px}.f-hd{width:20px;height:20px;background-position:-71px -83px}.f-mtts{width:75px;height:20px;background-position:-168px -8px}.f-dthoai{width:11px;height:19px;background-position:-5px -52px}.f-laptop{width:20px;height:19px;background-position:-28px -52px}.f-apple{width:14px;height:19px;background-position:-60px -53px}.f-tablet{width:18px;height:19px;background-position:-87px -53px}.f-dmay{width:17px;height:19px;background-position:-187px -53px}.f-pkien{width:16px;height:19px;background-position:-115px -53px}.f-mdt{width:16px;height:19px;background-position:-139px -52px}.f-simthe{width:13px;height:19px;background-position:-165px -53px}.f-xahang{width:16px;height:19px;background-position:-190px -60px}.f-kmai{width:18px;height:19px;background-position:-213px -53px}.f-samsung{position:relative;top:-2px;width:95px;height:16px;background-position:-120px -83px}.f-cart{width:25px;height:21px;background-position:-151px -125px}.fs-main{padding:15px 0;background:#f3f3f3}.fs-itit{line-height:1}.fsicte.owl-carousel .owl-stage-outer:before{content:"";position:absolute;bottom:0;left:0;width:100%;display:block;background:#f3f3f3;height:5px}.fs-icate{margin-bottom:10px!important}.fs-footer{background:#fff}.fs-footer ul{list-style:none}.fs-ftrow{margin:0 -15px;padding:25px 0 15px}.fs-ftcol{float:left;padding:0 15px;position:relative}.fs-ftcol1{width:19%}.fs-ftcol2{width:43%}.fs-ftcol>h2{text-transform:uppercase;font-weight:bold;font-size:15px;color:#353535;margin-bottom:15px}.fs-ftul li a{display:inline-block;font-size:14px;color:#3399d2;margin-bottom:10px}.fs-ftul li a:hover{color:#000;text-decoration:none}.fs-ftr1{display:inline-block;vertical-align:top;margin:0 15px 10px 0}.fs-ftr1 span,.fs-ftr1 a{display:inline-block;vertical-align:middle;margin:2px 0;padding:0}.fs-ftr1 span{padding-right:5px}.fs-ftr1 a{font-size:13px;color:#464646;width:44px;height:27px;background-image:url("/Content/v4/images/iconft.png?v=20171");background-repeat:no-repeat;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px}.fs-ftr-vs{background-position:0 0}.fs-ftr-mt{background-position:-48px 0}.fs-ftr-atm{background-position:-97px 0}.fs-ftr2{margin:0 -15px 15px}.fs-ftr2 li{float:left;padding:0 15px;font-size:14px;color:#4a4a4a;position:relative}.fs-ftr2 li a{font-size:20px;font-weight:bold;color:#d0021b}.fs-ftr3{display:inline-block;vertical-align:top}.fs-ftr3 li{display:inline-block;padding:0}.fs-ftr3 li a{display:inline-block;height:30px;background-image:url("/Content/v4/images/iconft.png?v=20171");background-repeat:no-repeat}.fs-ftr-cthuong{width:98px;background-position:0 -34px}.fs-ftr-dmca{width:70px;background-position:-104px -34px}.fs-ftr-sp{width:66px;background-position:-179px -34px}.fs-ftr-thieuvn{width:72px;background-position:-247px -34px}.fs-ftbott{background:#f2f2f2;font-size:10px;color:#6d6d6d;text-align:center;padding:10px 2px}.fs-ftrtit{font-weight:bold;color:#4a4a4a;margin-bottom:5px}.fs-breadcrumb{margin:-5px 0 7px 0}.fs-breadcrumb li{display:inline-block;margin-bottom:5px;font-size:12px;color:#6e6e6e}.fs-breadcrumb li a{font-size:12px;color:#2965a8}.fs-breadcrumb li+li:before{content:'/ ';display:inline-block;margin-right:5px;color:#898989}.fs-breadcrumb li:last-child a{color:#6e6e6e}@media(max-width:1200px){.f-wrap{width:1024px;max-width:1024px}.fs-search>form{max-width:470px}.fs-menu ul>li>a{font-size:12px}.fs-hdmsubsmall{top:58px}.fs-mnul>li{margin-right:8px}.fs-ftcol>h2{font-size:13px}.fs-ftul li a{font-size:13px}.fs-ftcol1{width:18%}.fs-ftcol2{width:46%}}@media(max-width:1040px){body{overflow-x:auto}}.fs-mnsub,.fs-hdmsubsmall{top:55px}.fs-mnul>li>a{padding:0;height:36px;line-height:36px}.fs-menu{height:36px}p.fshop-search-prodprice.price-sub{color:#777}.fsicte .owl-stage-outer:before{content:"";display:block;position:absolute;bottom:0;left:0;height:5px;width:100%;background:#f3f3f3}.fsicte .item .fs-ipimg img{width:auto;max-height:165px;margin:0 auto}.fs-ctf-hrdrop button{width:250px!important}.fs-sremain ul li.active{background:#f4f4f4}.fs-ctbrand .fsicte .owl-stage-outer:before{display:none}.fs-itit h2 a{font-size:20px;color:#3d3d3d}.hotsale{padding:3px 10px;text-align:center;background:#f6f1ac;border:1px solid #f8e81c;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;margin:7px 0}.hotsale h4{color:#dc0000;font-weight:bold;font-size:14px}.dgctpro{font-family:Arial;font-size:30px;margin-bottom:15px;text-align:center;color:#3d3d3d}.fsictelap.owl-carousel .owl-item img,.fs-lapitem img{width:240px}.fsicte.owl-carousel .owl-item{background:none}.viewgrid .fs-ilap-ch>ul>li{display:block}.viewgrid .fs-ilap-ch>ul>li:before,.viewgrid .fs-ilap-ch>ul>li:after{content:"";display:table}.viewgrid .fs-ilap-ch>ul>li:after{clear:both}.viewgrid .fs-ilap-ch>ul>li label{display:block;float:left;height:17px;line-height:17px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.viewgrid .fs-ilap-ch>ul>li span{display:block;margin-left:80px;height:17px;line-height:17px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.fs-icpmbox ul li{margin-bottom:5px}.fs-lpil-tskt>ul>li{margin-bottom:3px}.fs-icpmbox>p{font-size:13px;color:#666;margin-bottom:5px}.viewlist .fs-ilap-ch ul>li{float:left;width:50%;line-height:1.69;margin-bottom:3px}.fs-dtcontent strong *{font-weight:bold}.fs-dt-mtlis a{display:block;margin-bottom:15px;color:#4a4a4a;padding:10px;font-size:14px;position:relative;background-color:#fff;border:solid 1px #ebebeb;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px}.fs-dt-mtlis a:before{color:#337ab7;display:inline-block;position:absolute;top:50%;margin-top:-10px;right:10px}.fs-dt-mtlis a span{line-height:1.43;color:#337ab7;display:block}.fs-dt-mtlis a strong{font-weight:normal;display:block}.fs-dt-mtlis a strong i{font-weight:normal;font-style:normal;color:#d0011b}.fsicte .item:hover{z-index:9}@media(max-width:1200px){.fs-mnul>li{float:left;margin-right:8px}.fs-dtstd2{width:300px!important}}.fs-tsbox{padding:10px;background-color:#f6f6f6;border:solid 1px #eaeaea;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px}.fs-tsbox ul{-webkit-column-count:2;-moz-column-count:2;column-count:2}.fs-tsbox ul li{margin-bottom:5px;position:relative;padding-left:14px;list-style:none;line-height:16px;font-size:13px;page-break-inside:avoid;break-inside:avoid;-moz-column-break-inside:avoid;-o-column-break-inside:avoid;-ms-column-break-inside:avoid;column-break-inside:avoid;overflow:hidden}.fs-tsbox ul li:before{content:"";display:inline-block;position:absolute;top:4px;left:0;width:6px;height:6px;background:#d8d8d8;-webkit-border-radius:100%;-moz-border-radius:100%;border-radius:100%}.fs-tsbox ul li label{color:#676767;display:inline}.fs-tstit{font-weight:bold;color:#4a4a4a;text-align:center;margin-bottom:12px}.fs-tsvm{padding-top:5px;text-align:center}.fs-tsvm a{display:inline-block;color:#337ab7;font-size:12px}</style>
+<!-- jsLib -->
+<script>window.onload=function(){setTimeout(function(){(function(w,s,o,g,r,elm,m){w['frt']=r;w[r]=w[r]||function(){(w[r].q=w[r].q||[]).push(arguments)},w[r].l=1*new Date();elm=s.createElement(o),m=s.getElementsByTagName(o)[0];elm.async=1;elm.src=g;m.parentNode.insertBefore(elm,m)})(window,document,'script','https://fa.fpt.shop/fa_tracking.js','fa');fa('track','fptshop');},3000);};</script>
+<style>.fs-menu{border-bottom:none}.fsadl{position:absolute;top:-15px;left:-233px;z-index:1}.fsadr{position:absolute;top:-15px;right:-233px;z-index:1}</style>
+</meta></meta></meta></meta></meta></meta></meta></head>
+<body class="">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-W84P7P" style="display:none;visibility:hidden" width="0"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="fb-root"></div>
+<link href="http://fptshop.com.vn/tim-kiem/Vivo-V17-Pro" rel="canonical"/>
+<link href="/Content/v4/css/search.css?v=0811" rel="stylesheet"/>
+<style>.fshop-lprod-padd{margin-top:10px;margin-bottom:20px}#news{width:100%;border-left:1px solid #e8e8e8}#news .news-item{padding:10px;min-height:200px;position:relative}#news li.p-item{list-style-type:none;min-height:200px}#news .p-item{border-top:1px solid #e8e8e8;margin-top:-1px;border-right:1px solid #e8e8e8;border-bottom:1px solid #e8e8e8;font-size:13px;float:left;background:none repeat scroll 0 0 #fff;height:275px}#news .p-item .image{overflow:hidden;margin-bottom:10px}#news .p-item .image img{height:100px;width:100%}#news .p-item .date{color:#7f7f7f;font-size:12px}#news .p-item .title{height:36px;overflow:hidden;padding:0;margin-bottom:15px;margin-top:10px;line-height:18px}#news .p-item .description{height:72px;overflow:hidden;line-height:18px}.search-in-forum{background:#f8f8f8}#postForum{list-style:none;background:#f8f8f8;padding:5px}#postForum>li{float:left;width:49%;margin:5px 0;position:relative}#postForum>li:nth-child(odd){padding-right:1%}#postForum>li:nth-child(even){padding-left:1%}#postForum .qali{display:block;position:absolute;top:0;left:0}#postForum .qali>span{width:50px;height:50px;text-align:center;margin:0 5px 0 0;font-size:12px;color:#fff;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;display:block;vertical-align:middle;float:left;padding-top:10px}#postForum .qali>span>label{display:block}#postForum .qali .qali-answer{background:#ffbb7f}#postForum .qali .qali-viewer{background:#bed998}#postForum .qali-info{font-size:13px;height:50px;overflow:hidden;float:left;margin-left:115px}#postForum .qali-info>h3>a{font-weight:normal;color:#000;font-size:13px}#postForum .qali-info>p{margin-top:3px;color:#909090}#postForum .qali-info>p>span{color:#d41212}.form-view-more{padding:2px 0;margin-top:20px;margin:20px 0 30px;text-align:center;background:#ff5f5f}.form-view-more a{font-size:18px;font-weight:bold;color:#fff;display:block;padding:5px}.form-view-more:hover{background:#d41212}.form-view-more:hover a{text-decoration:none}.reff-search .active .p-hide-info{display:none!important;bottom:290px}.reff-search .active .p-info{top:200px}#promotion .p-item{border-top:1px solid #e8e8e8;margin-top:-1px;border-right:1px solid #e8e8e8;border-bottom:1px solid #e8e8e8;font-size:13px;float:left;background:none repeat scroll 0 0 #fff;height:230px}#promotion .p-item .image{overflow:hidden;margin-bottom:10px}#promotion .p-item .image img{height:100px;width:100%}#promotion .p-item .date{color:#7f7f7f;font-size:12px}#promotion .p-item .title{height:36px;overflow:hidden;padding:0;margin-bottom:15px;margin-top:10px;line-height:18px}#promotion .p-item .description{height:72px;overflow:hidden;line-height:18px}@media screen and (max-width:768px){#postForum>li{width:100%}#postForum>li:nth-child(odd),#postForum>li:nth-child(even){padding-right:0}#postForum .qali-info{height:auto}.fshop-lprod-fprodname h1{font-size:18px}.fshop-lprod-fprodname span{font-size:14px}}@media screen and (max-width:350px){#news .p-item,#news .p-item .image img,#news .p-item .description{height:auto}#news .p-more{height:198px}}.fshop-lprod-fprodname{float:left;position:relative;padding-right:45px}.fshop-lprod-fprodname h1{display:inline-block;color:#1c1c1c;font-size:20px;font-weight:normal}.fshop-lprod-fprodname span{color:#9b9b9b;font-size:12px}.fshop-lfter-item{float:left;position:relative}.products>.grid-sizer,.products>.p-item.cell-1{width:16.666666666666668%}.products>.p-item.cell-2{width:33.333333333333336%}.products>.p-item.cell-4{width:66.66666666666667%}@media (max-width:1024px){.products>.grid-sizer,.products>.p-item.cell-1{width:20%}.products>.p-item.cell-2{width:40%}.products>.p-item.cell-4{width:80%}.right-sidebar{padding-left:0}}@media (max-width:860px){.products>.grid-sizer,.products>.p-item.cell-1{width:25%}.products>.p-item.cell-2{width:50%}.products>.p-item.cell-4{display:none}.right-sidebar{padding-left:0}}@media (max-width:625px){.products>.grid-sizer,.products>.p-item.cell-1{width:50%}.products>.p-item.cell-2{width:50%}}@media (max-width:350px){.products>.grid-sizer,.products .p-item{width:100%!important}}</style>
+<style>.grid-sizer,.products>.p-item.cell-1{width:25%}</style>
+<section class="fs-main">
+<div class="fs-brcbox">
+<div class="f-wrap">
+<ul class="fs-breadcrumb">
+<li><a href="/" title="">Trang chủ</a></li>
+<li><a href="/tim-kiem/" title="">Tìm kiếm</a></li>
+<li>Vivo V17 Pro</li>
+</ul>
+</div>
+</div>
+<div class="f-wrap">
+<div class="fs-searchtab">
+<ul>
+<li class="active"><a href="/tim-kiem/Vivo-V17-Pro" title="">Tất cả</a></li>
+<li class=""><a href="/tim-kiem/Vivo-V17-Pro/san-pham" title="">Sản phẩm chính (1)</a></li>
+<li class=""><a href="/tim-kiem/Vivo-V17-Pro/phu-kien" title="">Phụ kiện (169)</a></li>
+<li class=""><a href="/tim-kiem/Vivo-V17-Pro/tin-tuc" title="">Tin tức (20)</a></li>
+</ul>
+</div>
+<p class="fs-senoti">Tìm thấy <strong>190</strong> kết quả với từ khóa <strong>"Vivo V17 Pro"</strong></p>
+<div class="fs-serow clearfix">
+<div class="fs-secol1">
+<div class="fs-dtbox">
+<div class="fs-sehead clearfix">
+<h4 class="fs-sehd-tit">Sản phẩm (1)</h4>
+<ul class="fs-ctf-hrview">
+<li class="active" value="grid"><a href="javascript:;" title=""><i class="icdt icgrid"></i></a></li>
+<li><a href="javascript:;" title=""><i class="icdt iclist"></i></a></li>
+</ul>
+<ul class="fs-sehd-fill">
+<li>Sắp xếp theo:</li>
+<li class="sort active" value-asc="1" value-sort="isnottrade.keyword"><a href="javascript:;" title="">Độ liên quan</a></li>
+<li class="sort" value-asc="0" value-sort="price"><a href="javascript:;" title="">Giá cao đến thấp</a></li>
+<li class="sort" value-asc="1" value-sort="price"><a href="javascript:;" title="">Giá thấp đến cao</a></li>
+</ul>
+</div>
+<div class="fs-lprods fscol4 clearfix category-products" id="category-products">
+<div class="grid-sizer"></div>
+<div class="fs-lpitem">
+<a href="/dien-thoai/vivo-v17-pro" title="Vivo V17 Pro 8GB-128GB">
+<p class="fs-icimg">
+<img alt="Vivo V17 Pro 8GB-128GB" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/9/25/637050274130687331_vivo-v17-pro-dd-1.png"/>
+<!-- <span class="fs-iclbkm">Tràn viền<span> -->
+<label class="fs-iclbkm">Trả góp 0%</label>
+</p>
+<h3 class="fs-icname">Vivo V17 Pro 8GB-128GB</h3>
+</a>
+</div>
+</div>
+<p class="fs-sevmore">
+</p>
+</div>
+</div>
+<div class="fs-secol2">
+<div class="fs-dtbox" id="phu-kien">
+<div class="fs-dttop">
+<h2>Phụ kiện (169)</h2>
+</div>
+<div class="fs-dtrpk">
+<ul>
+<li class="clearfix">
+<a class="fs-dtrpkimg" href="/phu-kien/pknk-op-lung-iphone-11-pro-max-silicon-midnight-blue" title="PKNK Ốp lưng iPhone 11 Pro Max Silicon Midnight Blue">
+<img alt="PKNK Ốp lưng iPhone 11 Pro Max Silicon Midnight Blue" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/9/20/637045868671650195_HASP-op-ip11-pro-silicon-mig-blue-dd.png"/>
+<div class="fs-dtrpkif">
+<a href="/phu-kien/pknk-op-lung-iphone-11-pro-max-silicon-midnight-blue" title="">
+<h3>PKNK Ốp lưng iPhone 11 Pro Max Silicon Midnight Blue</h3>
+<p>1.290.000 ₫</p>
+</a>
+</div>
+</a></li>
+<li class="clearfix">
+<a class="fs-dtrpkimg" href="/phu-kien/pknk-op-lung-iphone-11-pro-max-silicon-white" title="PKNK Ốp lưng iPhone 11 Pro Max Silicon White">
+<img alt="PKNK Ốp lưng iPhone 11 Pro Max Silicon White" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/9/20/637045865589135099_HASP-op-ip11-pro-silicon-white-dd.png"/>
+<div class="fs-dtrpkif">
+<a href="/phu-kien/pknk-op-lung-iphone-11-pro-max-silicon-white" title="">
+<h3>PKNK Ốp lưng iPhone 11 Pro Max Silicon White</h3>
+<p>1.290.000 ₫</p>
+</a>
+</div>
+</a></li>
+<li class="clearfix">
+<a class="fs-dtrpkimg" href="/phu-kien/pknk-op-lung-iphone-11-pro-leather-midnight-blue" title="PKNK Ốp lưng iPhone 11 Pro Leather Midnight Blue">
+<img alt="PKNK Ốp lưng iPhone 11 Pro Leather Midnight Blue" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/9/19/637044894319749071_HASP-op-ip11-pro-leather-blue-dd.png"/>
+<div class="fs-dtrpkif">
+<a href="/phu-kien/pknk-op-lung-iphone-11-pro-leather-midnight-blue" title="">
+<h3>PKNK Ốp lưng iPhone 11 Pro Leather Midnight Blue</h3>
+<p>1.590.000 ₫</p>
+</a>
+</div>
+</a></li>
+<li class="clearfix">
+<a class="fs-dtrpkimg" href="/phu-kien/pknk-op-lung-iphone-11-pro-max-leather-forest-green" title="PKNK Ốp lưng iPhone 11 Pro Max Leather Forest Green">
+<img alt="PKNK Ốp lưng iPhone 11 Pro Max Leather Forest Green" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/9/19/637044886819488155_HASP-op-ip11-pro-leather-green-dd.png"/>
+<div class="fs-dtrpkif">
+<a href="/phu-kien/pknk-op-lung-iphone-11-pro-max-leather-forest-green" title="">
+<h3>PKNK Ốp lưng iPhone 11 Pro Max Leather Forest Green</h3>
+<p>1.590.000 ₫</p>
+</a>
+</div>
+</a></li>
+</ul>
+<p class="fs-dtrvm"><a href="/tim-kiem/Vivo-V17-Pro/phu-kien" title="">Xem tất cả</a></p>
+</div>
+</div>
+<div class="fs-dtbox" id="tin-tuc">
+<div class="fs-dttop">
+<h2>Tin tức liên quan (20)</h2>
+</div>
+<div class="fs-dtrbv">
+<ul>
+<li class="clearfix">
+<a class="fs-dtrbvimg" href="http://fptshop.com.vn/tin-tuc/danh-gia/vivo-v17-pro-choi-that-nhieu-nghe-that-phieu-chup-khong-thieu-103277" title="Vivo V17 Pro: Chơi thật nhiều, nghe thật phiêu, chụp không thiếu">
+<img alt="Vivo V17 Pro: Chơi thật nhiều, nghe thật phiêu, chụp không thiếu" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/10/11/637064048714458095_vivo-v17-pro-14.JPG"/>
+<h3>Vivo V17 Pro: Chơi thật nhiều, nghe thật phiêu, chụp không thiếu</h3>
+</a>
+</li>
+<li class="clearfix">
+<a class="fs-dtrbvimg" href="http://fptshop.com.vn/tin-tuc/danh-gia/nhe-nhang-mua-thu-cung-vivo-v17-pro-103224" title="Nhẹ nhàng mùa thu cùng Vivo V17 Pro">
+<img alt="Nhẹ nhàng mùa thu cùng Vivo V17 Pro" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/10/10/637063212896883512_vivo-v17-pro-33.JPG"/>
+<h3>Nhẹ nhàng mùa thu cùng Vivo V17 Pro</h3>
+</a>
+</li>
+<li class="clearfix">
+<a class="fs-dtrbvimg" href="http://fptshop.com.vn/tin-tuc/danh-gia/cam-vivo-v17-pro-tren-tay-ban-thay-gi-103164" title="Cầm Vivo V17 Pro trên tay, bạn thấy gì?">
+<img alt="Cầm Vivo V17 Pro trên tay, bạn thấy gì?" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/10/9/637062341312373986_vivo-v17-pro-56.JPG"/>
+<h3>Cầm Vivo V17 Pro trên tay, bạn thấy gì?</h3>
+</a>
+</li>
+<li class="clearfix">
+<a class="fs-dtrbvimg" href="http://fptshop.com.vn/tin-tuc/danh-gia/dieu-gi-khien-cho-camera-vivo-v17-pro-noi-bat-trong-phan-khuc-102456" title="Điều gì khiến cho camera Vivo V17 Pro nổi bật trong phân khúc?">
+<img alt="Điều gì khiến cho camera Vivo V17 Pro nổi bật trong phân khúc?" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/9/25/637050320333502598_vivo-v17-pro.jpg"/>
+<h3>Điều gì khiến cho camera Vivo V17 Pro nổi bật trong phân khúc?</h3>
+</a>
+</li>
+<li class="clearfix">
+<a class="fs-dtrbvimg" href="http://fptshop.com.vn/tin-tuc/danh-gia/6-camera-cua-vivo-v17-pro-thu-vi-nhu-the-nao-102330" title="6 camera của Vivo V17 Pro thú vị như thế nào?">
+<img alt="6 camera của Vivo V17 Pro thú vị như thế nào?" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/9/23/637048758085856123_vivo-v17-pro-01.jpg"/>
+<h3>6 camera của Vivo V17 Pro thú vị như thế nào?</h3>
+</a>
+</li>
+<li class="clearfix">
+<a class="fs-dtrbvimg" href="http://fptshop.com.vn/tin-tuc/danh-gia/chup-anh-that-da-that-chat-cung-4-camera-tren-vivo-17-pro-102276" title="Chụp ảnh thật đã, thật chất cùng 4 camera trên Vivo V17 Pro">
+<img alt="Chụp ảnh thật đã, thật chất cùng 4 camera trên Vivo V17 Pro" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/9/23/637048471471056323_vivo-v17-pro-29.JPG"/>
+<h3>Chụp ảnh thật đã, thật chất cùng 4 camera trên Vivo V17 Pro</h3>
+</a>
+</li>
+</ul>
+<p class="fs-dtrvm"><a href="/tim-kiem/Vivo-V17-Pro/tin-tuc" title="">Xem tất cả</a></p>
+</div>
+</div>
+</div>
+</div>
+<script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+        "@id": "https://fptshop.com.vn",
+        "name": "Fptshop"
+        }}
+        ,{
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+        "@id": "https://fptshop.com.vn/tim-kiem",
+        "name": "Tìm Kiếm"
+        }},{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+        "@id": "https://fptshop.com.vn/tim-kiem/Vivo-V17-Pro",
+        "name": "Vivo-V17-Pro"
+        }}]
+        }
+    </script>
+</div>
+</section>
+<!-- JsCall -->
+<script src="/bundles/scriptsv4?v=yKBkeR_MBxRRcNpU2CGeoCNbHG9cMZPK5bbdQ_NTTu41" type="text/javascript"></script>
+<style>.fs-main{padding:100px 0 15px 0;background:#f3f3f3}.fs-header{position:absolute;top:0;left:0;width:100%}</style>
+<!-- Hearder -->
+<header class="fs-header">
+<div class="f-hdtop">
+<div class="f-wrap">
+<a class="fs-logo" href="/" title=""><i class="ficon f-logo"></i></a>
+<ul class="fs-hdmn">
+<li><a href="https://hangmy.fptshop.com.vn" target="_blank" title="Hàng Mỹ"><img alt="Hàng Mỹ" src="/Content/v4/images/hqt.png"> <span>Hàng Mỹ</span></img></a></li>
+<li>
+<a href="/tin-tuc" title=""><i class="ficon f-news"></i> <span>Thông tin hay</span></a>
+<ul class="fs-hdmsub fs-hdmsnews">
+<li class=""><a href="/tin-tuc" title="">Tin mới</a></li>
+<li><a href="/tin-tuc/tin-khuyen-mai" title="">Khuyến mãi</a></li>
+<li><a href="/tin-tuc/thu-thuat" title="">Thủ thuật</a></li>
+<li><a href="/tin-tuc/for-gamers" title="">For Gamers</a></li>
+<li><a href="/tin-tuc/video-hot" title="">Video hot</a></li>
+<li><a href="/tin-tuc/danh-gia" title="">Đánh giá - tư vấn</a></li>
+<li><a href="/tin-tuc/giai-tri" title="">App &amp; Game</a></li>
+<li><a href="/tin-tuc/su-kien" title="">Sự kiện</a></li>
+</ul>
+</li>
+<li><a href="/dich-vu" title="Thu hộ điện, nước"><img alt="Thu hộ điện, nước" src="/Content/v4/images/iconth.png"> <span>Thu hộ điện, nước</span></img></a></li>
+<li><a href="/gio-hang-v2" title=""><i class="ficon f-cart"></i> <span>Giỏ hàng</span><b class="fs-cartic countTotalCart" style="display: none;">0</b></a></li>
+</ul>
+<div class="fs-search">
+<form action="" autocomplete="off" method="get">
+<input autocomplete="off" class="fs-stxt" maxlength="50" name="" placeholder="Nhập tên điện thoại, máy tính, phụ kiện... cần tìm" type="text"/>
+<button class="search-button" type="submit"><i class="ficon f-search"></i></button>
+<div class="fs-sresult" style="display : block !important">
+<div class="fs-sremain">
+<ul></ul>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<nav class="fs-menu">
+<div class="f-wrap">
+<ul class="fs-mnul clearfix">
+<li>
+<a href="/dien-thoai" title="ĐIỆN THOẠI"><i class="ficon f-dthoai"></i>ĐIỆN THOẠI <span class="ficon"></span></a>
+<div class="fs-mnsub">
+<div class="fs-mnbox">
+<div class="fs-mntd fs-mntd1">
+<p class="fs-mnstit">Hãng sản xuất</p>
+<ul class="fs-mnsul fs-mnsul3 clearfix">
+<li><a href="/dien-thoai/apple-iphone" title="Apple (iPhone)">Apple (iPhone)</a></li>
+<li><a href="/dien-thoai/samsung" title="Samsung">Samsung</a></li>
+<li><a href="/dien-thoai/oppo" title="OPPO">OPPO</a></li>
+<li><a href="/dien-thoai/huawei" title="Huawei">Huawei</a></li>
+<li><a href="/dien-thoai/xiaomi" title="Xiaomi">Xiaomi</a></li>
+<li><a href="/dien-thoai/vsmart" title="VSmart">VSmart</a></li>
+<li><a href="/dien-thoai/nokia" title="Nokia">Nokia</a></li>
+<li><a href="/dien-thoai/honor" title="HONOR">HONOR</a></li>
+<li><a href="/dien-thoai/vivo" title="Vivo">Vivo</a></li>
+<li><a href="/dien-thoai/realme" title="Realme">Realme</a></li>
+<li><a href="/dien-thoai/asus" title="Asus">Asus</a></li>
+<li><a href="/dien-thoai/wiko" title="Wiko">Wiko</a></li>
+<li><a href="/dien-thoai/masstel" title="Masstel">Masstel</a></li>
+<li><a href="/dien-thoai/itel" title="Itel">Itel</a></li>
+<li><a href="/dien-thoai/mobiistar" title="Mobiistar">Mobiistar</a></li>
+</ul>
+<p class="fs-mnstit">ĐỒNG HỒ THÔNG MINH</p>
+<ul class="fs-mnsul fs-mnsul3 clearfix">
+<li><a href="/smartwatch/apple" title="Apple Watch">Apple Watch</a></li>
+<li><a href="/smartwatch/samsung" title="Samsung">Samsung</a></li>
+<li><a href="/smartwatch/masstel" title="Masstel">Masstel</a></li>
+<li><a href="/smartwatch/xiaomi" title="Xiaomi">Xiaomi</a></li>
+</ul>
+</div>
+<div class="fs-mntd fs-mntd2">
+<p class="fs-mnstit">Mức giá</p>
+<ul class="fs-mnsul fs-mnsul1 clearfix">
+<li><a href="/dien-thoai/duoi-1-trieu" title="Dưới 1 triệu">Dưới 1 triệu</a></li>
+<li><a href="/dien-thoai/tu-1-3-trieu" title="Từ 1 - 3 triệu">Từ 1 - 3 triệu</a></li>
+<li><a href="/dien-thoai/tu-3-6-trieu" title="Từ 3 - 6 triệu">Từ 3 - 6 triệu</a></li>
+<li><a href="/dien-thoai/tu-6-10-trieu" title="Từ 6 - 10 triệu">Từ 6 - 10 triệu</a></li>
+<li><a href="/dien-thoai/tu-10-15-trieu" title="Từ 10 - 15 triệu">Từ 10 - 15 triệu</a></li>
+<li><a href="/dien-thoai/tren-15-trieu" title="Trên 15 triệu">Trên 15 triệu</a></li>
+</ul>
+</div>
+<div class="fs-mntd fs-mntd3">
+<p class="fs-mnstit">Bán chạy nhất</p>
+<ul class="fs-mnsprod">
+<li class="clearfix">
+<a class="fs-mnspimg" href="/dien-thoai/oppo-a5s">
+<img alt="OPPO A5s" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/5/9/636930098911990414_oppo-a5s-dd.png">
+</img></a>
+<div>
+<span><a href="/dien-thoai/oppo-a5s" title="">OPPO A5s</a></span>
+<p>3.690.000 ₫</p>
+</div>
+</li>
+<li class="clearfix">
+<a class="fs-mnspimg" href="/dien-thoai/samsung-galaxy-a20">
+<img alt="Samsung Galaxy A20" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/3/25/636891293603309358_ss-galaxy-a20-dd.png">
+</img></a>
+<div>
+<span><a href="/dien-thoai/samsung-galaxy-a20" title="">Samsung Galaxy A20</a></span>
+<p>4.190.000 ₫</p>
+</div>
+</li>
+</ul>
+</div>
+<div class="fs-mntd fs-mntd4">
+<a href="https://fptshop.com.vn/ctkm/samsung" target="_blank" title="Samsung tháng H4">
+<img alt="Samsung tháng H4" src="//cdn.fptshop.com.vn/Uploads/Originals/2019/9/30/637054589076038918_Banner-SST10-H4-2X.png"/>
+</a>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a href="/may-tinh-xach-tay" title=""><i class="ficon f-laptop"></i> LAPTOP <span class="ficon"></span></a>
+<div class="fs-mnsub">
+<div class="fs-mnbox">
+<div class="fs-mntd fs-mntd1">
+<p class="fs-mnstit">Hãng sản xuất</p>
+<ul class="fs-mnsul fs-mnsul3 clearfix">
+<li><a href="/may-tinh-xach-tay/apple-macbook" title="Apple (Macbook)">Apple (Macbook)</a></li>
+<li><a href="/may-tinh-xach-tay/asus" title="Asus">Asus</a></li>
+<li><a href="/may-tinh-xach-tay/acer" title="Acer">Acer</a></li>
+<li><a href="/may-tinh-xach-tay/dell" title="Dell">Dell</a></li>
+<li><a href="/may-tinh-xach-tay/hp" title="HP">HP</a></li>
+<li><a href="/may-tinh-xach-tay/lenovo" title="Lenovo">Lenovo</a></li>
+<li><a href="/may-tinh-xach-tay/msi" title="MSI">MSI</a></li>
+<li><a href="/may-tinh-xach-tay/masstel" title="Masstel">Masstel</a></li>
+<li><a href="/may-tinh-xach-tay/haier" title="Haier">Haier</a></li>
+</ul>
+<p class="fs-mnstit"><a href="/phan-mem">PHẦN MỀM</a></p>
+<ul class="fs-mnsul fs-mnsul3 clearfix">
+<li><a href="/phan-mem/diet-virus" title="Phần mềm Diệt Virus">Diệt Virus</a></li>
+<li><a href="/phan-mem/microsoft-office" title="Phần mềm Microsoft Office">Microsoft Office</a></li>
+<li><a href="/phan-mem/windows" title="Phần mềm windows">Windows</a></li>
+<li><a href="/phan-mem/phan-mem-khac" title="Phần mềm Phần mềm khác">Phần mềm khác</a></li>
+</ul>
+</div>
+<div class="fs-mntd fs-mntd2">
+<p class="fs-mnstit">Mức giá</p>
+<ul class="fs-mnsul fs-mnsul1 clearfix">
+<li><a href="/may-tinh-xach-tay/duoi-5-trieu" title="Dưới 5 triệu">Dưới 5 triệu</a></li>
+<li><a href="/may-tinh-xach-tay/tu-5-10-trieu" title="Từ 5 - 10 triệu">Từ 5 - 10 triệu</a></li>
+<li><a href="/may-tinh-xach-tay/tu-10-15-trieu" title="Từ 10 - 15 triệu">Từ 10 - 15 triệu</a></li>
+<li><a href="/may-tinh-xach-tay/tu-15-20-trieu" title="Từ 15 - 20 triệu">Từ 15 - 20 triệu</a></li>
+<li><a href="/may-tinh-xach-tay/tu-20-25-trieu" title="Từ 20 - 25 triệu">Từ 20 - 25 triệu</a></li>
+<li><a href="/may-tinh-xach-tay/tu-25-30-trieu" title="Từ 25 - 30 triệu">Từ 25 - 30 triệu</a></li>
+<li><a href="/may-tinh-xach-tay/tren-30-trieu" title="Trên 30 triệu">Trên 30 triệu</a></li>
+</ul>
+</div>
+<div class="fs-mntd fs-mntd3">
+<p class="fs-mnstit">Mục đích sử dụng</p>
+<ul class="fs-mnsul fs-mnsul1 clearfix">
+<li><a href="/may-tinh-xach-tay/windows" title="Windows">Windows</a></li>
+<li><a href="/may-tinh-xach-tay/gia-re" title="Giá rẻ">Giá rẻ</a></li>
+<li><a href="/may-tinh-xach-tay/hien-dai" title="Hiện đại">Hiện đại</a></li>
+<li><a href="/may-tinh-xach-tay/gaming-do-hoa" title="Gaming - Đồ họa">Gaming - Đồ họa</a></li>
+<li><a href="/may-tinh-xach-tay/sinh-vien-van-phong" title="Sinh viên - Văn phòng">Sinh viên - Văn phòng</a></li>
+<li><a href="/may-tinh-xach-tay/san-pham-2-trong-1" title="Sản phẩm 2 trong 1">Sản phẩm 2 trong 1</a></li>
+<li><a href="/may-tinh-xach-tay/mong-nhe" title="Mỏng nhẹ">Mỏng nhẹ</a></li>
+</ul>
+</div>
+<div class="fs-mntd fs-mntd4">
+<a href="https://fptshop.com.vn/tiep-suc-mua-thi" target="_blank" title="Điểm cao thưởng lớn H4">
+<img alt="Điểm cao thưởng lớn H4" src="//cdn.fptshop.com.vn/Uploads/Originals/2019/10/2/637056294549793061_637028936965324513_Banner-H4  Note 10_10 Plus Copy.png"/>
+</a>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a href="http://fstudiobyfpt.com.vn/" title=""><i class="ficon f-apple"></i> APPLE <span class="ficon"></span></a>
+<div class="fs-mnsub">
+<div class="fs-mnbox">
+<div class="fs-mntd fs-mntd1">
+<p class="fs-mnstit">Các sản phẩm Apple</p>
+<ul class="fs-mnsul fs-mnsul3 clearfix">
+<li><a href="/dien-thoai/apple-iphone" title="iPhone">iPhone</a></li>
+<li><a href="/may-tinh-bang/apple-ipad" title="iPad">iPad</a></li>
+<li><a href="/may-tinh-xach-tay/apple-macbook" title="Mac">Macbook</a></li>
+<li><a href="/may-tinh-de-ban/imac" title="imac">iMac</a></li>
+<li><a href="/may-tinh-de-ban/mac-mini" title="Mac-mini">Mac mini</a></li>
+<li><a href="/may-tinh-de-ban/mac-pro" title="Mac-pro">Mac Pro</a></li>
+<li><a href="/smartwatch/apple" title="Watch">Watch</a></li>
+<li><a href="/phu-kien/apple-tv" title="Apple TV">Apple TV</a></li>
+<li><a href="/phu-kien/phu-kien-apple" title="Phụ kiện">Phụ kiện</a></li>
+</ul>
+</div>
+<div class="fs-mntd fs-mntd2">
+<p class="fs-mnstit">Mức giá</p>
+<ul class="fs-mnsul fs-mnsul1 clearfix">
+<li><a href="/dien-thoai/apple-iphone" title="Dưới 10 triệu">Dưới 10 triệu</a></li>
+<li><a href="/dien-thoai/apple-iphone" title="Từ 10 - 15 triệu">Từ 10 - 15 triệu</a></li>
+<li><a href="/dien-thoai/apple-iphone" title="Từ 15 - 20 triệu">Từ 15 - 20 triệu</a></li>
+<li><a href="/dien-thoai/apple-iphone" title="Từ 20 - 25 triệu">Từ 20 - 25 triệu</a></li>
+<li><a href="/dien-thoai/apple-iphone" title="Từ 25 - 30 triệu">Từ 25 - 30 triệu</a></li>
+<li><a href="/dien-thoai/apple-iphone" title="Trên 30 triệu">Trên 30 triệu</a></li>
+</ul>
+</div>
+<div class="fs-mntd fs-mntd3">
+<p class="fs-mnstit">Bán chạy nhất</p>
+<ul class="fs-mnsprod">
+<li class="clearfix">
+<a class="fs-mnspimg" href="/dien-thoai/iphone-7-plus">
+<img alt="iPhone 7 Plus 32GB" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/1/21/636836629047810556_iphone-7-plus.png">
+</img></a>
+<div>
+<span><a href="/dien-thoai/iphone-7-plus" title="">iPhone 7 Plus 32GB</a></span>
+<p>12.490.000 ₫</p>
+</div>
+</li>
+<li class="clearfix">
+<a class="fs-mnspimg" href="/may-tinh-bang/iPad-2018-WiFi-32gb">
+<img alt="iPad 2018 WiFi 32GB" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/7/2/636976601637970262_ipad-2018-wifi-dd.png">
+</img></a>
+<div>
+<span><a href="/may-tinh-bang/iPad-2018-WiFi-32gb" title="">iPad 2018 WiFi 32GB</a></span>
+<p>7.990.000 ₫</p>
+</div>
+</li>
+</ul>
+</div>
+<div class="fs-mntd fs-mntd4">
+<a href="https://fptshop.com.vn/dien-thoai/iphone-xs" target="_blank" title="KM Apple tháng">
+<img alt="KM Apple tháng" src="//cdn.fptshop.com.vn/Uploads/Originals/2019/6/5/636953450383026795_Banner-iPhone-XR.png"/>
+</a>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a href="/may-tinh-bang" title=""><i class="ficon f-tablet"></i> TABLET <span class="ficon"></span></a>
+<div class="fs-mnsub">
+<div class="fs-mnbox">
+<div class="fs-mntd fs-mntd1">
+<p class="fs-mnstit">Hãng sản xuất</p>
+<ul class="fs-mnsul fs-mnsul3 clearfix">
+<li><a href="/may-tinh-bang/apple-ipad" title="Apple (iPad)">Apple (iPad)</a></li>
+<li><a href="/may-tinh-bang/samsung" title="Samsung">Samsung</a></li>
+<li><a href="/may-tinh-bang/lenovo" title="Lenovo">Lenovo</a></li>
+<li><a href="/may-tinh-bang/masstel" title="Masstel">Masstel</a></li>
+<li><a href="/may-tinh-bang/huawei" title="Huawei">Huawei</a></li>
+<li><a href="/may-tinh-bang/itel" title="Itel">Itel</a></li>
+</ul>
+</div>
+<div class="fs-mntd fs-mntd2">
+<p class="fs-mnstit">Mức giá</p>
+<ul class="fs-mnsul fs-mnsul1 clearfix">
+<li><a href="/may-tinh-bang/duoi-2-trieu" title="Dưới 2 triệu">Dưới 2 triệu</a></li>
+<li><a href="/may-tinh-bang/tu-2-trieu-den-5-trieu" title="Từ 2 triệu đến 5 triệu">Từ 2 triệu đến 5 triệu</a></li>
+<li><a href="/may-tinh-bang/tu-5-trieu-den-8-trieu" title="Từ 5 triệu đến 8 triệu">Từ 5 triệu đến 8 triệu</a></li>
+<li><a href="/may-tinh-bang/tren-8-trieu" title="Trên 8 triệu">Trên 8 triệu</a></li>
+</ul>
+</div>
+<div class="fs-mntd fs-mntd3">
+<p class="fs-mnstit">Bán chạy nhất</p>
+<ul class="fs-mnsprod">
+<li class="clearfix">
+<a class="fs-mnspimg" href="/may-tinh-bang/samsung-galaxy-tab-a8-2019">
+<img alt="Samsung Galaxy Tab A8 (2019)" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/6/28/636973190413463351_samsung-galaxy-tab-a8-2019-dd.png">
+</img></a>
+<div>
+<span><a href="/may-tinh-bang/samsung-galaxy-tab-a8-2019" title="">Samsung Galaxy Tab A8 (2019)</a></span>
+<p>3.690.000 ₫</p>
+</div>
+</li>
+<li class="clearfix">
+<a class="fs-mnspimg" href="/may-tinh-bang/samsung-galaxy-tab-s5e">
+<img alt="Samsung Galaxy Tab S5E" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/3/14/636881601959297065_ss-galaxy-tab-s5e-dd.png">
+</img></a>
+<div>
+<span><a href="/may-tinh-bang/samsung-galaxy-tab-s5e" title="">Samsung Galaxy Tab S5E</a></span>
+<p>12.490.000 ₫</p>
+</div>
+</li>
+</ul>
+</div>
+<div class="fs-mntd fs-mntd4">
+<a href="https://fptshop.com.vn/may-tinh-bang" target="_blank" title="Tablet">
+<img alt="Tablet" src="//cdn.fptshop.com.vn/Uploads/Originals/2018/12/10/636800382970194963_H4.png"/>
+</a>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a href="/phu-kien" title=""><i class="ficon f-pkien"></i> PHỤ KIỆN <span class="ficon"></span></a>
+<div class="fs-mnsub">
+<div class="fs-mnbox">
+<div class="fs-mntd fs-mntd1">
+<p class="fs-mnstit">Các sản phẩm Phụ Kiện</p>
+<ul class="fs-mnsul fs-mnsul3 clearfix">
+<li><a href="/phu-kien/bao-da-op-lung" title="Bao da ốp lưng">Bao da ốp lưng</a></li>
+<li><a href="/phu-kien/sac-du-phong" title="Sạc dự phòng">Sạc dự phòng</a></li>
+<li><a href="/phu-kien/the-nho" title="Thẻ nhớ">Thẻ nhớ</a></li>
+<li><a href="/phu-kien/phu-kien-apple" title="Phụ kiện Apple">Phụ kiện Apple</a></li>
+<li><a href="/phu-kien/mieng-dan-man-hinh" title="Miếng dán màn hình">Miếng dán màn hình</a></li>
+<li><a href="/phu-kien/tai-nghe" title="Tai nghe">Tai nghe</a></li>
+<li><a href="/phu-kien/loa" title="Loa">Loa</a></li>
+<li><a href="/phu-kien/usb-o-cung" title="USB - Ổ cứng">USB - Ổ cứng</a></li>
+<li><a href="/phu-kien/sac-cap" title="Sạc cáp">Sạc cáp</a></li>
+<li><a href="/phu-kien/chuot" title="Chuột">Chuột</a></li>
+<li><a href="/phu-kien/balo-tui-xach" title="Balo - Túi xách">Balo - Túi xách</a></li>
+<li><a href="/phu-kien/tv-box" title="TV BOX">TV BOX</a></li>
+<li><a href="/phu-kien/phu-kien-khac" title="Phụ kiện khác">Phụ kiện khác</a></li>
+<li><a href="//fptshop.com.vn/phu-kien/ban-phim" title="Phụ kiện bàn phím">Phụ kiện bàn phím</a></li>
+<li><a href="//fptshop.com.vn/phu-kien-cu" title="Phụ kiện cũ">Phụ kiện cũ</a></li>
+</ul>
+</div>
+<div class="fs-mntd fs-mntd3">
+<p class="fs-mnstit">Bán chạy nhất</p>
+<ul class="fs-mnsprod">
+<li class="clearfix">
+<a class="fs-mnspimg" href="/phu-kien/combo-loa-bluetooth-karaoke-ivalue-f12-65n-nhua-den-mic-khong-day">
+<img alt="Combo Loa Bluetooth Karaoke i.value F12-65N Nhựa đen + Mic không dây" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/6/17/636963759454365620_HASP-00554636-dd-1.png">
+</img></a>
+<div>
+<span><a href="/phu-kien/combo-loa-bluetooth-karaoke-ivalue-f12-65n-nhua-den-mic-khong-day" title="">Combo Loa Bluetooth Karaoke i.value F12-65N Nhựa đen + Mic không dây</a></span>
+<p>2.490.000 ₫</p>
+</div>
+</li>
+<li class="clearfix">
+<a class="fs-mnspimg" href="/phu-kien/tai-nghe-co-day-choang-dau-ivalue-t-127-black">
+<img alt="Tai nghe có dây choàng đầu i.value T-127 black" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2019/8/27/637025182258997497_HASP-tainghe-ivalue-00555011.jpg">
+</img></a>
+<div>
+<span><a href="/phu-kien/tai-nghe-co-day-choang-dau-ivalue-t-127-black" title="">Tai nghe có dây choàng đầu i.value T-127 black</a></span>
+<p>350.000 ₫</p>
+</div>
+</li>
+</ul>
+</div>
+<div class="fs-mntd fs-mntd4">
+<a href="https://fptshop.com.vn/phu-kien/fpt-play-box-s400" target="_blank" title="FPT Play Box H4">
+<img alt="FPT Play Box H4" src="//cdn.fptshop.com.vn/Uploads/Originals/2019/9/17/637043154440917257_637028936963764623_Banner-H4  FPT Play Box.png"/>
+</a>
+</div>
+</div>
+</div>
+</li>
+<li><a href="/may-doi-tra" title=""><i class="ficon f-mdt"></i> MÁY ĐỔI TRẢ</a></li>
+<li class="fs-mnulsb">
+<a href="/sim-so-dep" title=""><i class="ficon f-simthe"></i> SIM &amp; THẺ <span class="ficon"></span></a>
+<!--<ul class="fs-hdmsub fs-hdmsubsmall">
+                        <li><a href="/sim-so-dep" title="">SIM</a></li>
+						<li><a href="/sim-the/mua-the-cao" title="">Thẻ cào</a></li>
+                        
+                        
+                    </ul>-->
+</li>
+<li class="fs-mnulsb">
+<a href="/khuyen-mai" title=""><i class="ficon f-kmai"></i> KHUYẾN MÃI </a>
+<ul class="fs-hdmsub fs-hdmsubsmall">
+<li><a href="/khuyen-mai/thong-tin-trao-thuong" title="">Thông tin trao thưởng</a></li>
+<li><a href="/khuyen-mai" title="">Tất cả khuyến mại</a></li>
+</ul>
+</li>
+<li><a href="/ctkm/tra-gop-uu-dai" title=""><i class="ficon f-tho"></i> TRẢ GÓP 0% </a></li>
+</ul>
+</div>
+</nav>
+</header>
+<style>.fs-mnul>li{margin-right:30px}.f-dmay{width:17px;height:19px;background-position:-187px -53px}.ficon{background-image:url(/images/icons.svg?v=032019)}@media (max-width:1200px){.fs-mnul>li{margin-right:8px}}</style>
+<footer> <div class="fs-footer"> <div class="f-wrap"> <div class="fs-ftrow clearfix"> <div class="fs-ftcol fs-ftcol1"> <ul class="fs-ftul"> <li><a href="http://frt.vn/" rel="nofollow" target="_blank">Giới thiệu về công ty</a></li> <li><a href="//fptshop.com.vn/huong-dan/cau-hoi-thuong-gap" title="Câu hỏi thường gặp mua hàng">Câu hỏi thường gặp mua hàng</a></li> <li><a href="//fptshop.com.vn/ho-tro/chinh-sach-bao-mat" title="">Chính sách bảo mật</a></li> <li><a href="//fptshop.com.vn/tos" title="">Quy chế hoạt động</a></li> <li><a href="http://hddt.fptshop.com.vn/" title="">Kiểm tra hóa đơn điện tử</a></li><li><a href="//fptshop.com.vn/kiem-tra-bao-hanh?tab=thong-tin-bao-hanh" title="">Tra cứu thông tin bảo hành</a></li> </ul> </div> <div class="fs-ftcol fs-ftcol1"> <ul class="fs-ftul"><li><a href="//vieclam.fptshop.com.vn/">Tin tuyển dụng</a></li><li><a href="//fptshop.com.vn/tin-tuc/Tin-khuyen-mai" title="">Tin khuyến mãi</a></li><li><a href="//fptshop.com.vn/huong-dan/huong-dan-mua-hang" title="">Hướng dẫn mua online</a></li><li><a href="//fptshop.com.vn/tra-gop" title="">Hướng dẫn mua trả góp</a></li><li><a href="https://fptshop.com.vn/ho-tro/chinh-sach-tra-gop" title="">Chính sách trả góp</a></li></ul></div><div class="fs-ftcol fs-ftcol1"><ul class="fs-ftul"><li><a href="//fptshop.com.vn/cua-hang">Hệ thống cửa hàng</a></li><li><a href="//fptshop.com.vn/ho-tro/chinh-sach-bao-hanh" title="">Hệ thống bảo hành</a></li><li><a href="//fptshop.com.vn/kiem-tra-hang-apple-chinh-hang" title="">Kiểm tra hàng Apple chính hãng</a></li><li><a href="//fptshop.com.vn/ho-tro/gioi-thieu-may-doi-tra" title="">Giới thiệu máy đổi trả</a></li><li><a href="https://fptshop.com.vn/ho-tro/chinh-sach-doi-san-pham" title="">Chính sách đổi trả</a></li></ul></div><div class="fs-ftcol fs-ftcol2"><ul class="fs-ftr2 clearfix"><li> <p>Tư vấn mua hàng (Miễn phí)</p> <a href="tel:18006601" title="">1800 6601</a> </li><li> <p>Góp ý, khiếu nại dịch vụ (8h00-22h00)</p> <a href="tel:18006616" title="">1800 6616</a> </li></ul><div class="fs-ftrright"><div class="fs-ftr1"><p class="fs-ftrtit">Hỗ trợ thanh toán:</p><a class="fs-ftr-vs" href="javascript:;" title=""></a><a class="fs-ftr-mt" href="javascript:;" title=""></a><a class="fs-ftr-atm" href="javascript:;" title=""></a></div><div class="fs-ftr3"><p class="fs-ftrtit">Chứng nhận:</p><ul><li><a class="fs-ftr-cthuong" href="http://online.gov.vn/CustomWebsiteDisplay.aspx?DocId=21891" title=""></a></li><li><a class="fs-ftr-dmca" href="javascript:;" title=""></a></li><li><a class="fs-ftr-sp" href="javascript:;" title=""></a></li><li><a class="fs-ftr-thieuvn" href="javascript:;" title=""></a></li></ul></div></div></div></div></div></div> <div class="fs-ftbott">© 2007 - 2019 Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT / Địa chỉ: 261 Khánh Hội, P5, Q4, TP. Hồ Chí Minh / GPĐKKD số 0311609355 do Sở KHĐT TP.HCM cấp ngày 08/03/2012. GP số 47/GP-TTĐT do sở TTTT TP HCM cấp ngày 02/07/2018. Điện thoại: (028)73023456. Email: fptshop@fpt.com.vn. Chịu trách nhiệm nội dung: Nguyễn Trịnh Nhật Linh.</div></footer><script src="/Scripts/v4/fpt-shop/jfpts.main.js?v=20191017"></script> <script src="/Content/Publishing/js/sourceutm.min.js?v=01062"></script> <style>a.tooltips{outline:none}a.tooltips span{z-index:10;display:none;padding:10px 15px;margin-top:30px;margin-left:-160px;width:280px;-moz-box-shadow:0 0 5px 1px #ccc;-webkit-box-shadow:0 0 5px 1px #ccc;box-shadow:0 0 5px 1px #ccc}a.tooltips:hover span{display:inline;position:absolute;border:1px solid #ccc;background:#fff}</style> <script src="https://evania.adspirit.de/adrtpiggy.php?pid=37&amp;type=1" type="text/javascript"></script> <noscript><iframe allowtransparency="true" frameborder="0" height="2" marginheight="0" marginwidth="0" noresize="noresize" scrolling="no" src="https://evania.adspirit.de/adrtpiggy.php?pid=37&amp;type=2" width="1"></iframe></noscript>
+<script src="/Scripts/v3/libs/swiper/swiper.js"></script>
+<script src="/Scripts/v3/libs/swiper/swiper.jquery.js"></script>
+<script src="/Scripts/v3/libs/masonry/packery.pkgd.js"></script>
+<script src="/Scripts/v4/fpt-shop/search-page.js"></script>
+<script src="/Scripts/v4/cate.js"></script>
+<style>.fsneo-box{position:fixed;bottom:0;right:10px;z-index:99}.fsneo-close{position:absolute;top:10px;right:5px;cursor:pointer;display:inline-block;width:24px;height:24px;background-image:url(/Content/VoucherNeo/close.png?v=118);background-repeat:no-repeat;background-position:center center}.fsneo-n2{width:400px;height:150px;padding-left:10px;padding-right:10px;padding-top:14px;position:relative;font-size:15px;color:#000;text-align:center;box-shadow:0 0 3px 0 rgba(0,0,0,.2);background-color:#f1f4fb}.fsneo-n2ct p:first-child{color:#cf1306;font-size:18px;margin-bottom:6px}.fsneo-n1{width:400px;height:150px;padding-top:105px;position:relative;background-position:center center;background-repeat:no-repeat;background-size:cover}.fsneo-n1 a{display:inline-block;position:absolute;top:82px;right:15px;color:#fff;font-size:13px;font-weight:500;text-decoration:underline}.fsneo-n1 .fsneo-close{top:10px;right:5px}.fsneo-n1sea{position:relative;margin:0 14px}.fsneo-n1sea input{width:100%;height:36px;font-size:15px;font-weight:300;outline:0;padding:6px 136px 6px 19px;background-color:#fff;border-width:0;border-style:solid;border-color:#cecece;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}.fsneo-n1sea button{display:inline-block;width:110px;height:36px;position:absolute;top:0;right:0;font-size:14px;font-weight:500;text-align:center;text-transform:uppercase;color:#fff;font-weight:bold;background-color:#cb0e20;border:none;-moz-border-radius-topright:4px;-webkit-border-top-right-radius:4px;border-top-right-radius:4px;-moz-border-radius-bottomright:4px;-webkit-border-bottom-right-radius:4px;border-bottom-right-radius:4px}.sneo-n1txt{position:absolute;width:210px;text-align:center;top:35px;left:25px}.sneo-n1txt p{color:#1c1c1c;font-size:17px;font-weight:300;margin-bottom:15px}.sneo-n1-btn{display:inline-block;width:157px;height:34px;border-radius:5px;background-color:#dd2121;border:solid 1px rgba(93,0,36,.2);line-height:33px;color:#fff;font-weight:bold;margin-bottom:8px}.sneo-n1-btn2{width:157px;height:34px;border-radius:5px;background-color:#fff;border:solid 1px rgba(93,0,36,.2);display:inline-block;line-height:33px;color:#1c1c1c}#vcstatus{background-color:#fff;border-radius:5px;padding:2px 6px;color:#cd1818}.fsneo-box .btnClose{width:200px;height:40px;border-radius:4px;background-color:#cf1306;border:solid 1px rgba(203,14,32,.92);color:#fff;font-size:14px;font-weight:bold;margin-top:6px;text-transform:uppercase}.fs-vcdtbox{background-color:#fff;margin-bottom:10px}.bvcdetail-1{width:100%;min-height:159px;position:relative;padding:0 0;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-size:cover;border-radius:2px;-webkit-border-radius:2px;-moz-border-radius:2px}.fs-ghrboxs{position:absolute;bottom:0;left:0;width:100%;padding:8px 10px}.bvcdetail-2{width:100%;min-height:159px;padding:10px 10px;position:relative;font-size:15px;color:#000;text-align:center;box-shadow:0 0 3px 0 rgba(0,0,0,.2);background-color:#fafcfe}.bvcdetail-2 p:first-child{color:#cf1306;font-size:18px;margin-bottom:6px}.bvcdt-us{width:200px;height:40px;border-radius:4px;background-color:#cf1306;color:#fff;font-size:14px;font-weight:bold;margin-top:6px;text-transform:uppercase;border:none}.fs-ghcsea{position:relative}.fs-ghcsea input{padding:6px 82px 6px 12px;height:36px;width:100%;outline:0;background-color:#fff;border:solid 0 #cecece;border-radius:4px}.fs-ghcsea button{width:100px;height:36px;position:absolute;top:0;right:0;text-align:center;text-transform:uppercase;color:#fff;border:none;outline:0;background-color:#cb0e20;border-radius:0 4px 4px 0}.fs-vcdtlink{font-size:12px;color:#fff;margin:6px 0 0 0}.fs-vcdtlink a{color:#93ebff;text-decoration:underline;cursor:pointer}.fs-vcdtmess{z-index:1;position:absolute;top:10px;left:10px;font-size:12px;padding:6px 6px;text-align:center;color:#d0011b;background-color:#fff8f8;border:solid 1px #e6d1d1;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px}</style>
+<div class="fsneo-box" data-vc="57" data-vccheckview="0" style="display:none;">
+<div class="fsneo-n1" style="display:block; background-image:url('http://fptshop.com.vn/Uploads/images/2015/Voucher/20102019/home-pc.png');">
+<span class="fsneo-close" style="background-image:url('http://fptshop.com.vn/Uploads/images/2015/Voucher/20102019/close.png');"></span>
+<a href="/ctkm/khuyen-mai-thang" style="color:#000000;" target="_blank" title="Xem thêm">Xem thêm &gt;</a>
+<div class="fsneo-n1sea">
+<p id="vcstatus" style="display:none;position: absolute;bottom:38px;font-size:12px;"></p>
+<input autocomplete="off" id="phoneVc" placeholder="Nhập số điện thoại..." type="tel"/>
+<button class="fs-vcnbtn" type="button">Nhận mã</button>
+</div>
+</div>
+<div class="fsneo-n2" style="display: none;">
+<div class="fsneo-n2ct">
+<p><strong>FPT Shop đã gửi mã giảm giá thành công</strong></p>
+<p>Vui lòng đặt hàng Online và sử dụng mã giảm giá từ 17/10 - 22h00 23/10/2019.</p>
+<!--<p style="font-size: 16px"><strong>Cảm ơn Quý khách!</strong></p>-->
+<button class="btnClose" type="button">
+                    Đóng thông báo
+                </button>
+</div>
+</div>
+</div>
+<script src="/bundles/Voucher?v=ZmTK_aeH6Ld0oCPhg4I153yzHAhAbr_qrKjXGbbjTcY1"></script>
+</body>
+</html>

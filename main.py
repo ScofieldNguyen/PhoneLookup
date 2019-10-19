@@ -66,9 +66,13 @@ def get_phone_info_at_fpt(phoneName):
 
     # parse product link from search result
     html = get_html(search_link)
-    detail_page_link = html.find_all('div', class_='fs-lpitem')[0].find('a').get('href')
+    detail = html.find('div', class_='fs-lpitem')
+    if not detail:
+        # Exit because cannot found phone in store
+        return 0, 0
 
     # parse price from detail page
+    detail_page_link = detail.find('a').get('href')
     detail_html = get_html(f'{base_link}{detail_page_link}')
 
     # get price
@@ -85,23 +89,58 @@ def get_phone_info_at_fpt(phoneName):
 
     return price, promotion
 
-data_frame = get_data_frame()
-for index, row in data_frame.iterrows():
-    # delay before run another round
-    time.sleep(5)
+def get_phone_info_at_viettel(phoneName):
+    print(f'===> searching {phoneName} at Viettel')
 
-    phone_name = row['Phone']
+    # prepare search link
+    base_link = 'https://viettelstore.vn/'
+    keyword = phoneName.replace(' ', '%20')
+    search_link = f'{base_link}/ket-qua-tim-kiem.html?keyword={keyword}'
 
-    # TheGioiDiDong
-    price, promotion = get_phone_info_at_tgdd(phone_name)
-    data_frame.set_value(index, 'tgdd_price', price)
-    data_frame.set_value(index, 'tgdd_promotion', promotion)
+    # parse product link from search result
+    html = get_html(search_link)
+    print(html)
+    # detail = html.find('div', class_='fs-lpitem')
+    # if not detail:
+    #     # Exit because cannot found phone in store
+    #     return 0, 0
 
-    # FPT
-    fpt_price, fpt_promotion = get_phone_info_at_fpt(phone_name)
-    data_frame.set_value(index, 'fpt_price', fpt_price)
-    data_frame.set_value(index, 'fpt_promotion', fpt_promotion)
+    # # parse price from detail page
+    # detail_page_link = detail.find('a').get('href')
+    # detail_html = get_html(f'{base_link}{detail_page_link}')
+
+    # # get price
+    # price = 0
+    # area_price = detail_html.find('p', class_='fs-dtprice')
+    # if area_price:
+    #   price = area_price.text
+
+    # # get promotion
+    # promotion = ''
+    # area_promotion = detail_html.find('div', class_="fk-sales")
+    # if area_promotion:
+    #   promotion = area_promotion.text
+
+    # return price, promotion
+
+# data_frame = get_data_frame()
+# for index, row in data_frame.iterrows():
+#     # delay before run another round
+#     time.sleep(5)
+
+#     phone_name = row['Phone']
+
+#     # TheGioiDiDong
+#     price, promotion = get_phone_info_at_tgdd(phone_name)
+#     data_frame.set_value(index, 'tgdd_price', price)
+#     data_frame.set_value(index, 'tgdd_promotion', promotion)
+
+#     # FPT
+#     fpt_price, fpt_promotion = get_phone_info_at_fpt(phone_name)
+#     data_frame.set_value(index, 'fpt_price', fpt_price)
+#     data_frame.set_value(index, 'fpt_promotion', fpt_promotion)
 
 
-# get_phone_info_at_fpt('Vivo S1')
-data_frame.to_excel('result.xlsx')
+# data_frame.to_excel('result.xlsx')
+
+get_phone_info_at_viettel('Xiaomi Redmi Note 7')

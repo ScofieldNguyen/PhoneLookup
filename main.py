@@ -84,13 +84,13 @@ def get_phone_info_at_tgdd(phoneName):
     price = 0
     area_price = detail_html.find('div', class_='area_price')
     if area_price:
-      price = area_price.find('strong').get_text()
+      price = area_price.get_text()
 
     # get promotion
     promotion = ''
     area_promotion = detail_html.find('div', class_=re.compile('area_promotion.*'))
     if area_promotion:
-      info_prs = area_promotion.find_all('div', class_='infopr')
+      info_prs = area_promotion.find_all('div', class_='infopr', recursive=False)
       for info in info_prs:
           promotion += info.text
 
